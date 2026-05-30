@@ -70,7 +70,7 @@ const sanjay = {
 
 | Project | Description | Tech Stack | Links |
 |--------|-------------|------------|-------|
-| 🔄 **SkillSwap** | AI-powered peer-to-peer skill exchange platform with real-time chat, Kanban board & session scheduling | React, Node.js, MongoDB, Socket.io, Groq AI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/skillswap) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://skillswap.vercel.app) |
+| 🔄 **SkillSwap** | AI-powered peer-to-peer skill exchange platform with real-time chat, Kanban board & session scheduling | React, Node.js, MongoDB, Socket.io, Groq AI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/skillswap) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://skillswap-six-pi.vercel.app/)
 | 🎯 **QuizArena** | Real-time multiplayer quiz platform with AI-generated questions, live leaderboards & room-based sessions | React, Node.js, MongoDB, Socket.io | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/quizarena) |
 
 </div>
