@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:1a1a2e,100:FFD54F&height=160&section=header&text=Sanjay%20P&fontSize=52&fontColor=FFD54F&fontAlignY=55&desc=Java%20Backend%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=78&descColor=ffffff" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-sanjay--dev--portfolio.netlify.app-FFD54F?style=for-the-badge&logo=netlify&logoColor=black)](https://sanjay-dev-portfolio.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanjay--fullstack.netlify.app-FFD54F?style=for-the-badge&logo=netlify&logoColor=black)](https://sanjay-fullstack.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-p-90999a307)
 [![Email](https://img.shields.io/badge/Gmail-sanjay.pdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay.pdev@gmail.com)
 
