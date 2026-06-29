@@ -1,79 +1,66 @@
 <div align="center">
 
-<!-- Animated Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sanjay%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack%20%7C%20Building%20the%20Web&descAlignY=55&descSize=18&descColor=a78bfa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:090909,50:1a1a2e,100:FFD54F&height=160&section=header&text=Sanjay%20P&fontSize=52&fontColor=FFD54F&fontAlignY=55&desc=Java%20Backend%20Engineer%20%C2%B7%20Full%20Stack%20Developer&descSize=16&descAlignY=78&descColor=ffffff" />
 
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Building+Real-time+Applications+%E2%9A%A1;Open+to+Work+%7C+BTech+IT+2026+%F0%9F%8E%93)](https://git.io/typing-svg)
-
-<br/>
-
-<!-- Social Badges -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjayp-dev)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanjay652005)
-[![Gmail](https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay652005@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sanjay--dev--portfolio.netlify.app-FFD54F?style=for-the-badge&logo=netlify&logoColor=black)](https://sanjay-dev-portfolio.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjay-p-90999a307)
+[![Email](https://img.shields.io/badge/Gmail-sanjay.pdev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjay.pdev@gmail.com)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## ⚡ About Me
 
-```javascript
+```ts
 const sanjay = {
-  name: "Sanjay P",
-  role: "Full Stack Developer",
-  education: "B.Tech IT @ AMACE, Anna University (2026)",
-  location: "Tamil Nadu, India 🇮🇳",
-  currentlyBuilding: ["SkillSwap", "QuizArena"],
-  lookingFor: "Full Stack Developer roles",
-  funFact: "I turn chai ☕ into code 💻"
+  role:       "Java Backend Engineer · Full Stack Developer",
+  college:    "Anna University (AMACE) · B.Tech IT · 2026",
+  location:   "Tamil Nadu, India",
+  stack:      ["Java", "Spring Boot", "Node.js", "React", "MongoDB", "MySQL"],
+  currentFocus: "Building production-grade MERN + Java projects",
+  dsa:        "LeetCode · GeeksforGeeks · Java",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
-<div align="center">
+**Backend**
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+**Frontend**
 
-### Tools & Deployment
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 
-</div>
+**Database & Tools**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-| Project | Description | Tech Stack | Links |
-|--------|-------------|------------|-------|
-| 🔄 **SkillSwap** | AI-powered peer-to-peer skill exchange platform with real-time chat, Kanban board & session scheduling | React, Node.js, MongoDB, Socket.io, Groq AI | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/skillswap) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://skillswap-six-pi.vercel.app/)
-| 🎯 **QuizArena** | Real-time multiplayer quiz platform with AI-generated questions, live leaderboards & room-based sessions | React, Node.js, MongoDB, Socket.io |[![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/quizarena) [![Live](https://img.shields.io/badge/Live-000000?style=flat-square&logo=vercel)](https://quizarena-liard.vercel.app) |
-
-</div>
+| Project | Stack | Description | Links |
+|---|---|---|---|
+| 🧠 **NotesMind** | MERN · Groq AI · Docker | AI notes platform — upload PDFs, chat with them, generate quizzes, semantic search | [![Live](https://img.shields.io/badge/Live-A78BFA?style=flat-square)](https://sanjay652005-notes-sharing.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay-p/notes-sharing) |
+| 🔄 **SkillSwap AI** | MERN · Socket.IO · Groq | AI-powered peer skill exchange platform with real-time chat | [![Live](https://img.shields.io/badge/Live-61DAFB?style=flat-square)](https://skillswap-six-pi.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay-p/skillswap) |
+| ⚡ **QuizArena** | MERN · Socket.IO | Real-time multiplayer quiz platform | [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square)](https://quizarena-liard.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay-p/quizarena) |
+| 🔐 **Java Auth System** | Spring Boot · JWT · MySQL | Production-grade auth service with Spring Security + Docker | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay-p/java-auth-system) |
 
 ---
 
@@ -81,45 +68,38 @@ const sanjay = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sanjay652005&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay652005&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+![Sanjay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sanjay-p&show_icons=true&theme=dark&bg_color=090909&border_color=FFD54F&icon_color=FFD54F&title_color=FFD54F&text_color=ffffff&hide_border=false)
 
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjay-p&layout=compact&theme=dark&bg_color=090909&border_color=FFD54F&title_color=FFD54F&text_color=ffffff)
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=sanjay652005&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=sanjay652005&theme=tokyonight&no-frame=true&row=1&column=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=sanjay-p&theme=dark&background=090909&border=FFD54F&ring=FFD54F&fire=FFD54F&currStreakLabel=FFD54F&sideLabels=ffffff&dates=ffffff)
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 Certifications
 
-<div align="center">
+- 🟦 **IBM** — Full Stack Development
+- 🟩 **Deloitte** — Technology Virtual Experience
+- 🟧 **TCS** — Software Engineering
 
-[![Sanjay's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanjay652005&theme=tokyo-night&hide_border=true&bg_color=0d1117)](https://github.com/ashutosh00710/github-readme-activity-graph)
+---
 
-</div>
+## 💼 Experience
+
+| Role | Company | Period |
+|---|---|---|
+| Full Stack Intern | Besant Technologies | Jan – Apr 2026 |
+| Web Development Intern | NoviTech R&D | Jun – Aug 2024 |
+| Software Intern | Pinnacle Lab | Jul – Aug 2024 |
 
 ---
 
 <div align="center">
 
-### 💬 Let's Connect & Build Something Amazing!
+![Visitor Count](https://komarev.com/ghpvc/?username=sanjay-p&color=FFD54F&style=flat-square&label=Profile+Views)
 
-*Open to Full Stack Developer roles, freelance projects, and collaborations*
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD54F,50:1a1a2e,100:090909&height=120&section=footer" />
 
 </div>
