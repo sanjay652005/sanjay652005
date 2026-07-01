@@ -57,8 +57,8 @@ const sanjay = {
 
 | Project | Stack | Description | Links |
 |---|---|---|---|
-| 🧠 **NotesMind** | MERN · Groq AI · Docker | AI notes platform — upload PDFs, chat with them, generate quizzes, semantic search | [![Live](https://img.shields.io/badge/Live-A78BFA?style=flat-square)](https://sanjay652005-notes-sharing.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/notes-sharing) |
 | 🔄 **SkillSwap AI** | MERN · Socket.IO · Groq | AI-powered peer skill exchange platform with real-time chat | [![Live](https://img.shields.io/badge/Live-61DAFB?style=flat-square)](https://skillswap-six-pi.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/skillswap) |
+| 🧠 **NotesMind** | MERN · Groq AI · Docker | AI notes platform — upload PDFs, chat with them, generate quizzes, semantic search | [![Live](https://img.shields.io/badge/Live-A78BFA?style=flat-square)](https://sanjay652005-notes-sharing.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/notes-sharing) |
 | ⚡ **QuizArena** | MERN · Socket.IO | Real-time multiplayer quiz platform | [![Live](https://img.shields.io/badge/Live-FF6B35?style=flat-square)](https://quizarena-liard.vercel.app) [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/quizarena) |
 | 🔐 **Java Auth System** | Spring Boot · JWT · MySQL | Production-grade auth service with Spring Security + Docker | [![Repo](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github)](https://github.com/sanjay652005/java-auth-system) |
 
@@ -91,8 +91,8 @@ const sanjay = {
 | Role | Company | Period |
 |---|---|---|
 | Full Stack Intern | Besant Technologies | Jan – Apr 2026 |
-| Web Development Intern | NoviTech R&D | Jun – Aug 2024 |
-| Software Intern | Pinnacle Lab | Jul – Aug 2024 |
+| Web Development Intern | NoviTech R&D | Jun – Aug 2025 |
+| Software Intern | Pinnacle Lab | Jul – Aug 2025 |
 
 ---
 
